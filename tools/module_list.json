@@ -1,0 +1,7 @@
+{
+    "base": {
+        "module_path": "base.base_module",
+        "class_name": "BaseModule",
+        "depend_list": []
+    }
+}
