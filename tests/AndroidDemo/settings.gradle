@@ -1,0 +1,4 @@
+include ':app'
+project(':app').projectDir = new File(settingsDir, 'app')
+include ':libhuawei'
+project(':libhuawei').projectDir = new File(settingsDir, '../../modules/huawei/simple/android/libhuawei')
