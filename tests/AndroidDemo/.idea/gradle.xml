@@ -10,6 +10,8 @@
             <option value="$PROJECT_DIR$/../../modules/huawei/simple/android/libhuawei" />
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/liboppo" />
+            <option value="$PROJECT_DIR$/libvivo" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

@@ -1,4 +1,4 @@
-include ':app'
+include ':app', ':libvivo', ':liboppo'
 project(':app').projectDir = new File(settingsDir, 'app')
 include ':libhuawei'
 project(':libhuawei').projectDir = new File(settingsDir, '../../modules/huawei/simple/android/libhuawei')
