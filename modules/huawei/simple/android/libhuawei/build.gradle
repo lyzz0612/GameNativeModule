@@ -1,8 +1,12 @@
 apply plugin: 'com.android.library'
 
 def getManifestPlaceholder() {
-    def jsonFile = project.file("assets/huawei_config.json")
-    return new groovy.json.JsonSlurper().parse(jsonFile)
+    def jsonFile = rootProject.file("assets/huawei_config.json")
+    if (!jsonFile.exists()) {
+        jsonFile = project.file("assets/huawei_config.json")
+    }
+    def placeholder = new groovy.json.JsonSlurper().parse(jsonFile)
+    return placeholder
 }
 android {
     compileSdkVersion 26
@@ -16,6 +20,7 @@ android {
     sourceSets.main {
         java.srcDir "src"
         manifest.srcFile "AndroidManifest.xml"
+        assets.srcDirs = ["assets/"]
     }
     buildTypes {
 
