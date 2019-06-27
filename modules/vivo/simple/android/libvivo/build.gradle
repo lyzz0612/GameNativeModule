@@ -3,14 +3,11 @@ apply plugin: 'com.android.library'
 android {
     compileSdkVersion 26
 
-
-
     defaultConfig {
         minSdkVersion 14
         targetSdkVersion 19
         versionCode 1
         versionName "1.0"
-
     }
 
     buildTypes {
@@ -25,12 +22,10 @@ android {
             assets.srcDirs = ['assets']
             jniLibs.srcDir "libs"
         }
-
     }
-
 }
 
 dependencies {
-    compile fileTree(dir: 'libs', include: ['*.jar'])
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
     implementation 'com.android.support:appcompat-v7:26.1.0'
 }

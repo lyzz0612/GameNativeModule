@@ -1,0 +1,115 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Others\myProject\GameNativeModule\modules\vivo\simple\android\libvivo\AndroidManifest.xml:2:1-40:12
+INJECTED from E:\Others\myProject\GameNativeModule\modules\vivo\simple\android\libvivo\AndroidManifest.xml:2:1-40:12
+INJECTED from E:\Others\myProject\GameNativeModule\modules\vivo\simple\android\libvivo\AndroidManifest.xml:2:1-40:12
+INJECTED from E:\Others\myProject\GameNativeModule\modules\vivo\simple\android\libvivo\AndroidManifest.xml:2:1-40:12
+INJECTED from E:\Others\myProject\GameNativeModule\modules\vivo\simple\android\libvivo\AndroidManifest.xml:2:1-40:12
+INJECTED from E:\Others\myProject\GameNativeModule\modules\vivo\simple\android\libvivo\AndroidManifest.xml:2:1-40:12
+INJECTED from E:\Others\myProject\GameNativeModule\modules\vivo\simple\android\libvivo\AndroidManifest.xml:2:1-40:12
+	package
+		ADDED from E:\Others\myProject\GameNativeModule\modules\vivo\simple\android\libvivo\AndroidManifest.xml:3:5-34
+		INJECTED from E:\Others\myProject\GameNativeModule\modules\vivo\simple\android\libvivo\AndroidManifest.xml
+		INJECTED from E:\Others\myProject\GameNativeModule\modules\vivo\simple\android\libvivo\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\Others\myProject\GameNativeModule\modules\vivo\simple\android\libvivo\AndroidManifest.xml:5:5-30
+		INJECTED from E:\Others\myProject\GameNativeModule\modules\vivo\simple\android\libvivo\AndroidManifest.xml
+		INJECTED from E:\Others\myProject\GameNativeModule\modules\vivo\simple\android\libvivo\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Others\myProject\GameNativeModule\modules\vivo\simple\android\libvivo\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from E:\Others\myProject\GameNativeModule\modules\vivo\simple\android\libvivo\AndroidManifest.xml:4:5-28
+		INJECTED from E:\Others\myProject\GameNativeModule\modules\vivo\simple\android\libvivo\AndroidManifest.xml
+		INJECTED from E:\Others\myProject\GameNativeModule\modules\vivo\simple\android\libvivo\AndroidManifest.xml
+uses-permission#vivo.game.permission.OPEN_JUMP_INTENTS
+ADDED from E:\Others\myProject\GameNativeModule\modules\vivo\simple\android\libvivo\AndroidManifest.xml:7:5-78
+	android:name
+		ADDED from E:\Others\myProject\GameNativeModule\modules\vivo\simple\android\libvivo\AndroidManifest.xml:7:22-75
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from E:\Others\myProject\GameNativeModule\modules\vivo\simple\android\libvivo\AndroidManifest.xml:8:5-78
+	android:name
+		ADDED from E:\Others\myProject\GameNativeModule\modules\vivo\simple\android\libvivo\AndroidManifest.xml:8:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from E:\Others\myProject\GameNativeModule\modules\vivo\simple\android\libvivo\AndroidManifest.xml:9:5-75
+	android:name
+		ADDED from E:\Others\myProject\GameNativeModule\modules\vivo\simple\android\libvivo\AndroidManifest.xml:9:22-73
+uses-permission#android.permission.INTERNET
+ADDED from E:\Others\myProject\GameNativeModule\modules\vivo\simple\android\libvivo\AndroidManifest.xml:10:5-67
+	android:name
+		ADDED from E:\Others\myProject\GameNativeModule\modules\vivo\simple\android\libvivo\AndroidManifest.xml:10:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\Others\myProject\GameNativeModule\modules\vivo\simple\android\libvivo\AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from E:\Others\myProject\GameNativeModule\modules\vivo\simple\android\libvivo\AndroidManifest.xml:11:22-76
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from E:\Others\myProject\GameNativeModule\modules\vivo\simple\android\libvivo\AndroidManifest.xml:12:5-74
+	android:name
+		ADDED from E:\Others\myProject\GameNativeModule\modules\vivo\simple\android\libvivo\AndroidManifest.xml:12:22-72
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\Others\myProject\GameNativeModule\modules\vivo\simple\android\libvivo\AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from E:\Others\myProject\GameNativeModule\modules\vivo\simple\android\libvivo\AndroidManifest.xml:13:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from E:\Others\myProject\GameNativeModule\modules\vivo\simple\android\libvivo\AndroidManifest.xml:14:5-80
+	android:name
+		ADDED from E:\Others\myProject\GameNativeModule\modules\vivo\simple\android\libvivo\AndroidManifest.xml:14:22-77
+uses-permission#android.permission.GET_TASKS
+ADDED from E:\Others\myProject\GameNativeModule\modules\vivo\simple\android\libvivo\AndroidManifest.xml:15:5-68
+	android:name
+		ADDED from E:\Others\myProject\GameNativeModule\modules\vivo\simple\android\libvivo\AndroidManifest.xml:15:22-65
+uses-permission#android.permission.REQUEST_INSTALL_PACKAGES
+ADDED from E:\Others\myProject\GameNativeModule\modules\vivo\simple\android\libvivo\AndroidManifest.xml:17:5-82
+	android:name
+		ADDED from E:\Others\myProject\GameNativeModule\modules\vivo\simple\android\libvivo\AndroidManifest.xml:17:22-80
+application
+ADDED from E:\Others\myProject\GameNativeModule\modules\vivo\simple\android\libvivo\AndroidManifest.xml:22:5-39:19
+meta-data#vivo_union_sdk
+ADDED from E:\Others\myProject\GameNativeModule\modules\vivo\simple\android\libvivo\AndroidManifest.xml:23:9-25:39
+	android:value
+		ADDED from E:\Others\myProject\GameNativeModule\modules\vivo\simple\android\libvivo\AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from E:\Others\myProject\GameNativeModule\modules\vivo\simple\android\libvivo\AndroidManifest.xml:24:13-42
+activity#com.vivo.unionsdk.ui.UnionActivity
+ADDED from E:\Others\myProject\GameNativeModule\modules\vivo\simple\android\libvivo\AndroidManifest.xml:26:9-38:20
+	android:configChanges
+		ADDED from E:\Others\myProject\GameNativeModule\modules\vivo\simple\android\libvivo\AndroidManifest.xml:27:19-91
+	android:theme
+		ADDED from E:\Others\myProject\GameNativeModule\modules\vivo\simple\android\libvivo\AndroidManifest.xml:28:19-62
+	android:name
+		ADDED from E:\Others\myProject\GameNativeModule\modules\vivo\simple\android\libvivo\AndroidManifest.xml:26:19-68
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from E:\Others\myProject\GameNativeModule\modules\vivo\simple\android\libvivo\AndroidManifest.xml:29:13-37:29
+action#android.intent.action.VIEW
+ADDED from E:\Others\myProject\GameNativeModule\modules\vivo\simple\android\libvivo\AndroidManifest.xml:30:17-68
+	android:name
+		ADDED from E:\Others\myProject\GameNativeModule\modules\vivo\simple\android\libvivo\AndroidManifest.xml:30:25-66
+category#android.intent.category.DEFAULT
+ADDED from E:\Others\myProject\GameNativeModule\modules\vivo\simple\android\libvivo\AndroidManifest.xml:31:17-75
+	android:name
+		ADDED from E:\Others\myProject\GameNativeModule\modules\vivo\simple\android\libvivo\AndroidManifest.xml:31:27-73
+category#android.intent.category.BROWSABLE
+ADDED from E:\Others\myProject\GameNativeModule\modules\vivo\simple\android\libvivo\AndroidManifest.xml:32:17-77
+	android:name
+		ADDED from E:\Others\myProject\GameNativeModule\modules\vivo\simple\android\libvivo\AndroidManifest.xml:32:27-75
+data
+ADDED from E:\Others\myProject\GameNativeModule\modules\vivo\simple\android\libvivo\AndroidManifest.xml:33:17-36:47
+	android:path
+		ADDED from E:\Others\myProject\GameNativeModule\modules\vivo\simple\android\libvivo\AndroidManifest.xml:36:21-45
+	android:host
+		ADDED from E:\Others\myProject\GameNativeModule\modules\vivo\simple\android\libvivo\AndroidManifest.xml:35:21-50
+	android:scheme
+		ADDED from E:\Others\myProject\GameNativeModule\modules\vivo\simple\android\libvivo\AndroidManifest.xml:34:21-47
+uses-sdk
+INJECTED from E:\Others\myProject\GameNativeModule\modules\vivo\simple\android\libvivo\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\Others\myProject\GameNativeModule\modules\vivo\simple\android\libvivo\AndroidManifest.xml
+INJECTED from E:\Others\myProject\GameNativeModule\modules\vivo\simple\android\libvivo\AndroidManifest.xml
+INJECTED from E:\Others\myProject\GameNativeModule\modules\vivo\simple\android\libvivo\AndroidManifest.xml
+INJECTED from E:\Others\myProject\GameNativeModule\modules\vivo\simple\android\libvivo\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\Others\myProject\GameNativeModule\modules\vivo\simple\android\libvivo\AndroidManifest.xml
+		ADDED from E:\Others\myProject\GameNativeModule\modules\vivo\simple\android\libvivo\AndroidManifest.xml
+		INJECTED from E:\Others\myProject\GameNativeModule\modules\vivo\simple\android\libvivo\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\Others\myProject\GameNativeModule\modules\vivo\simple\android\libvivo\AndroidManifest.xml
+		ADDED from E:\Others\myProject\GameNativeModule\modules\vivo\simple\android\libvivo\AndroidManifest.xml
+		INJECTED from E:\Others\myProject\GameNativeModule\modules\vivo\simple\android\libvivo\AndroidManifest.xml

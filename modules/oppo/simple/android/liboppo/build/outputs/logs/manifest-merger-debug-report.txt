@@ -1,0 +1,158 @@
+-- Merging decision tree log ---
+meta-data#app_key
+INJECTED from E:\Others\myProject\GameNativeModule\modules\oppo\simple\android\liboppo\AndroidManifest.xml:31:9-33:42
+	android:value
+		INJECTED from E:\Others\myProject\GameNativeModule\modules\oppo\simple\android\liboppo\AndroidManifest.xml
+		ADDED from E:\Others\myProject\GameNativeModule\modules\oppo\simple\android\liboppo\AndroidManifest.xml:33:13-39
+	android:name
+		ADDED from E:\Others\myProject\GameNativeModule\modules\oppo\simple\android\liboppo\AndroidManifest.xml:32:13-35
+manifest
+ADDED from E:\Others\myProject\GameNativeModule\modules\oppo\simple\android\liboppo\AndroidManifest.xml:2:1-56:12
+INJECTED from E:\Others\myProject\GameNativeModule\modules\oppo\simple\android\liboppo\AndroidManifest.xml:2:1-56:12
+INJECTED from E:\Others\myProject\GameNativeModule\modules\oppo\simple\android\liboppo\AndroidManifest.xml:2:1-56:12
+INJECTED from E:\Others\myProject\GameNativeModule\modules\oppo\simple\android\liboppo\AndroidManifest.xml:2:1-56:12
+INJECTED from E:\Others\myProject\GameNativeModule\modules\oppo\simple\android\liboppo\AndroidManifest.xml:2:1-56:12
+INJECTED from E:\Others\myProject\GameNativeModule\modules\oppo\simple\android\liboppo\AndroidManifest.xml:2:1-56:12
+INJECTED from E:\Others\myProject\GameNativeModule\modules\oppo\simple\android\liboppo\AndroidManifest.xml:2:1-56:12
+	package
+		ADDED from E:\Others\myProject\GameNativeModule\modules\oppo\simple\android\liboppo\AndroidManifest.xml:3:5-34
+		INJECTED from E:\Others\myProject\GameNativeModule\modules\oppo\simple\android\liboppo\AndroidManifest.xml
+		INJECTED from E:\Others\myProject\GameNativeModule\modules\oppo\simple\android\liboppo\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\Others\myProject\GameNativeModule\modules\oppo\simple\android\liboppo\AndroidManifest.xml:5:5-32
+		INJECTED from E:\Others\myProject\GameNativeModule\modules\oppo\simple\android\liboppo\AndroidManifest.xml
+		INJECTED from E:\Others\myProject\GameNativeModule\modules\oppo\simple\android\liboppo\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Others\myProject\GameNativeModule\modules\oppo\simple\android\liboppo\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from E:\Others\myProject\GameNativeModule\modules\oppo\simple\android\liboppo\AndroidManifest.xml:4:5-30
+		INJECTED from E:\Others\myProject\GameNativeModule\modules\oppo\simple\android\liboppo\AndroidManifest.xml
+		INJECTED from E:\Others\myProject\GameNativeModule\modules\oppo\simple\android\liboppo\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from E:\Others\myProject\GameNativeModule\modules\oppo\simple\android\liboppo\AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from E:\Others\myProject\GameNativeModule\modules\oppo\simple\android\liboppo\AndroidManifest.xml:7:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\Others\myProject\GameNativeModule\modules\oppo\simple\android\liboppo\AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from E:\Others\myProject\GameNativeModule\modules\oppo\simple\android\liboppo\AndroidManifest.xml:8:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from E:\Others\myProject\GameNativeModule\modules\oppo\simple\android\liboppo\AndroidManifest.xml:9:5-76
+	android:name
+		ADDED from E:\Others\myProject\GameNativeModule\modules\oppo\simple\android\liboppo\AndroidManifest.xml:9:22-73
+uses-permission#android.permission.SEND_SMS
+ADDED from E:\Others\myProject\GameNativeModule\modules\oppo\simple\android\liboppo\AndroidManifest.xml:10:5-67
+	android:name
+		ADDED from E:\Others\myProject\GameNativeModule\modules\oppo\simple\android\liboppo\AndroidManifest.xml:10:22-64
+uses-permission#android.permission.READ_SMS
+ADDED from E:\Others\myProject\GameNativeModule\modules\oppo\simple\android\liboppo\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from E:\Others\myProject\GameNativeModule\modules\oppo\simple\android\liboppo\AndroidManifest.xml:11:22-64
+uses-permission#android.permission.WRITE_SMS
+ADDED from E:\Others\myProject\GameNativeModule\modules\oppo\simple\android\liboppo\AndroidManifest.xml:12:5-68
+	android:name
+		ADDED from E:\Others\myProject\GameNativeModule\modules\oppo\simple\android\liboppo\AndroidManifest.xml:12:22-65
+uses-permission#android.permission.RECEIVE_SMS
+ADDED from E:\Others\myProject\GameNativeModule\modules\oppo\simple\android\liboppo\AndroidManifest.xml:13:5-70
+	android:name
+		ADDED from E:\Others\myProject\GameNativeModule\modules\oppo\simple\android\liboppo\AndroidManifest.xml:13:22-67
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from E:\Others\myProject\GameNativeModule\modules\oppo\simple\android\liboppo\AndroidManifest.xml:14:5-75
+	android:name
+		ADDED from E:\Others\myProject\GameNativeModule\modules\oppo\simple\android\liboppo\AndroidManifest.xml:14:22-72
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from E:\Others\myProject\GameNativeModule\modules\oppo\simple\android\liboppo\AndroidManifest.xml:15:5-80
+	android:name
+		ADDED from E:\Others\myProject\GameNativeModule\modules\oppo\simple\android\liboppo\AndroidManifest.xml:15:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\Others\myProject\GameNativeModule\modules\oppo\simple\android\liboppo\AndroidManifest.xml:16:5-81
+	android:name
+		ADDED from E:\Others\myProject\GameNativeModule\modules\oppo\simple\android\liboppo\AndroidManifest.xml:16:22-78
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from E:\Others\myProject\GameNativeModule\modules\oppo\simple\android\liboppo\AndroidManifest.xml:17:5-84
+	android:name
+		ADDED from E:\Others\myProject\GameNativeModule\modules\oppo\simple\android\liboppo\AndroidManifest.xml:17:22-81
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from E:\Others\myProject\GameNativeModule\modules\oppo\simple\android\liboppo\AndroidManifest.xml:18:5-78
+	android:name
+		ADDED from E:\Others\myProject\GameNativeModule\modules\oppo\simple\android\liboppo\AndroidManifest.xml:18:22-75
+uses-permission#android.permission.GET_TASKS
+ADDED from E:\Others\myProject\GameNativeModule\modules\oppo\simple\android\liboppo\AndroidManifest.xml:19:5-68
+	android:name
+		ADDED from E:\Others\myProject\GameNativeModule\modules\oppo\simple\android\liboppo\AndroidManifest.xml:19:22-65
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from E:\Others\myProject\GameNativeModule\modules\oppo\simple\android\liboppo\AndroidManifest.xml:20:5-71
+	android:name
+		ADDED from E:\Others\myProject\GameNativeModule\modules\oppo\simple\android\liboppo\AndroidManifest.xml:20:22-68
+uses-permission#android.permission.USE_CREDENTIALS
+ADDED from E:\Others\myProject\GameNativeModule\modules\oppo\simple\android\liboppo\AndroidManifest.xml:21:5-74
+	android:name
+		ADDED from E:\Others\myProject\GameNativeModule\modules\oppo\simple\android\liboppo\AndroidManifest.xml:21:22-71
+application
+ADDED from E:\Others\myProject\GameNativeModule\modules\oppo\simple\android\liboppo\AndroidManifest.xml:23:5-55:19
+meta-data#debug_mode
+ADDED from E:\Others\myProject\GameNativeModule\modules\oppo\simple\android\liboppo\AndroidManifest.xml:25:9-27:37
+	android:value
+		ADDED from E:\Others\myProject\GameNativeModule\modules\oppo\simple\android\liboppo\AndroidManifest.xml:27:13-34
+	android:name
+		ADDED from E:\Others\myProject\GameNativeModule\modules\oppo\simple\android\liboppo\AndroidManifest.xml:26:13-38
+meta-data#is_offline_game
+ADDED from E:\Others\myProject\GameNativeModule\modules\oppo\simple\android\liboppo\AndroidManifest.xml:28:9-30:37
+	android:value
+		ADDED from E:\Others\myProject\GameNativeModule\modules\oppo\simple\android\liboppo\AndroidManifest.xml:30:13-34
+	android:name
+		ADDED from E:\Others\myProject\GameNativeModule\modules\oppo\simple\android\liboppo\AndroidManifest.xml:29:13-43
+activity#com.nearme.game.sdk.component.proxy.ProxyActivity
+ADDED from E:\Others\myProject\GameNativeModule\modules\oppo\simple\android\liboppo\AndroidManifest.xml:35:9-39:67
+	android:process
+		ADDED from E:\Others\myProject\GameNativeModule\modules\oppo\simple\android\liboppo\AndroidManifest.xml:38:13-37
+	android:configChanges
+		ADDED from E:\Others\myProject\GameNativeModule\modules\oppo\simple\android\liboppo\AndroidManifest.xml:37:13-74
+	android:theme
+		ADDED from E:\Others\myProject\GameNativeModule\modules\oppo\simple\android\liboppo\AndroidManifest.xml:39:13-55
+	android:name
+		ADDED from E:\Others\myProject\GameNativeModule\modules\oppo\simple\android\liboppo\AndroidManifest.xml:36:13-77
+service#com.nearme.game.sdk.component.proxy.ProxyApiService
+ADDED from E:\Others\myProject\GameNativeModule\modules\oppo\simple\android\liboppo\AndroidManifest.xml:40:9-43:48
+	android:process
+		ADDED from E:\Others\myProject\GameNativeModule\modules\oppo\simple\android\liboppo\AndroidManifest.xml:43:13-37
+	android:priority
+		ADDED from E:\Others\myProject\GameNativeModule\modules\oppo\simple\android\liboppo\AndroidManifest.xml:42:13-36
+	android:name
+		ADDED from E:\Others\myProject\GameNativeModule\modules\oppo\simple\android\liboppo\AndroidManifest.xml:41:13-79
+receiver#com.nearme.game.sdk.component.proxy.ProxyUserCenterOperateReceiver
+ADDED from E:\Others\myProject\GameNativeModule\modules\oppo\simple\android\liboppo\AndroidManifest.xml:45:9-54:20
+	android:process
+		ADDED from E:\Others\myProject\GameNativeModule\modules\oppo\simple\android\liboppo\AndroidManifest.xml:48:13-37
+	android:exported
+		ADDED from E:\Others\myProject\GameNativeModule\modules\oppo\simple\android\liboppo\AndroidManifest.xml:47:13-36
+	android:name
+		ADDED from E:\Others\myProject\GameNativeModule\modules\oppo\simple\android\liboppo\AndroidManifest.xml:46:13-94
+intent-filter#com.oppo.usercenter.account_login+com.oppo.usercenter.account_logout+com.oppo.usercenter.modify_name
+ADDED from E:\Others\myProject\GameNativeModule\modules\oppo\simple\android\liboppo\AndroidManifest.xml:49:13-53:29
+action#com.oppo.usercenter.account_login
+ADDED from E:\Others\myProject\GameNativeModule\modules\oppo\simple\android\liboppo\AndroidManifest.xml:50:17-76
+	android:name
+		ADDED from E:\Others\myProject\GameNativeModule\modules\oppo\simple\android\liboppo\AndroidManifest.xml:50:25-73
+action#com.oppo.usercenter.account_logout
+ADDED from E:\Others\myProject\GameNativeModule\modules\oppo\simple\android\liboppo\AndroidManifest.xml:51:17-77
+	android:name
+		ADDED from E:\Others\myProject\GameNativeModule\modules\oppo\simple\android\liboppo\AndroidManifest.xml:51:25-74
+action#com.oppo.usercenter.modify_name
+ADDED from E:\Others\myProject\GameNativeModule\modules\oppo\simple\android\liboppo\AndroidManifest.xml:52:17-74
+	android:name
+		ADDED from E:\Others\myProject\GameNativeModule\modules\oppo\simple\android\liboppo\AndroidManifest.xml:52:25-71
+uses-sdk
+INJECTED from E:\Others\myProject\GameNativeModule\modules\oppo\simple\android\liboppo\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\Others\myProject\GameNativeModule\modules\oppo\simple\android\liboppo\AndroidManifest.xml
+INJECTED from E:\Others\myProject\GameNativeModule\modules\oppo\simple\android\liboppo\AndroidManifest.xml
+INJECTED from E:\Others\myProject\GameNativeModule\modules\oppo\simple\android\liboppo\AndroidManifest.xml
+INJECTED from E:\Others\myProject\GameNativeModule\modules\oppo\simple\android\liboppo\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\Others\myProject\GameNativeModule\modules\oppo\simple\android\liboppo\AndroidManifest.xml
+		ADDED from E:\Others\myProject\GameNativeModule\modules\oppo\simple\android\liboppo\AndroidManifest.xml
+		INJECTED from E:\Others\myProject\GameNativeModule\modules\oppo\simple\android\liboppo\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\Others\myProject\GameNativeModule\modules\oppo\simple\android\liboppo\AndroidManifest.xml
+		ADDED from E:\Others\myProject\GameNativeModule\modules\oppo\simple\android\liboppo\AndroidManifest.xml
+		INJECTED from E:\Others\myProject\GameNativeModule\modules\oppo\simple\android\liboppo\AndroidManifest.xml

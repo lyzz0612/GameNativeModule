@@ -1,4 +1,10 @@
-include ':app', ':libvivo', ':liboppo'
+include ':app', ':libxiaomi'
 project(':app').projectDir = new File(settingsDir, 'app')
 include ':libhuawei'
 project(':libhuawei').projectDir = new File(settingsDir, '../../modules/huawei/simple/android/libhuawei')
+include ':libvivo'
+project(':libvivo').projectDir = new File(settingsDir, '../../modules/vivo/simple/android/libvivo')
+include ':liboppo'
+project(':liboppo').projectDir = new File(settingsDir, '../../modules/oppo/simple/android/liboppo')
+include ':libxiaomi'
+project(':libxiaomi').projectDir = new File(settingsDir, '../../modules/xiaomi/simple/android/libxiaomi')

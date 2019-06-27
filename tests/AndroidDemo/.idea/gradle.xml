@@ -8,10 +8,11 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/../../modules/huawei/simple/android/libhuawei" />
+            <option value="$PROJECT_DIR$/../../modules/oppo/simple/android/liboppo" />
+            <option value="$PROJECT_DIR$/../../modules/vivo/simple/android/libvivo" />
+            <option value="$PROJECT_DIR$/../../modules/xiaomi/simple/android/libxiaomi" />
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
-            <option value="$PROJECT_DIR$/liboppo" />
-            <option value="$PROJECT_DIR$/libvivo" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
